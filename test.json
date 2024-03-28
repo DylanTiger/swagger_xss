@@ -1,0 +1,12 @@
+{
+    "url": "https://raw.githubusercontent.com/DylanTiger/swagger_xss/main/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/DylanTiger/swagger_xss/main/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
+
+
+
