@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/DylanTiger/swagger_xss/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/DylanTiger/swagger_xss/main/xss-fetch.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/DylanTiger/swagger_xss/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/DylanTiger/swagger_xss/main/xss-fetch.yaml",
             "name": "Foo"
         }
     ]
