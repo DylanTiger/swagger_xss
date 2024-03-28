@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    `</code><svg><annotation-xml><foreignobject><style><!--</style><p id="--><img src='x' onerror='alert(1)'>">`, {CUSTOM_ELEMENT_HANDLING: {tagNameCheck: /.*/},FORBID_CONTENTS: [""]}
+    <svg><annotation-xml><foreignobject><style><!--</style><p id="--><img src='x' onerror='alert(1)'>">`, {CUSTOM_ELEMENT_HANDLING: {tagNameCheck: /.*/},FORBID_CONTENTS: [""]}
 paths:
   /accounts:
     get:
