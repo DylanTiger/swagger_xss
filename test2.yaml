@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: <form><input name=hasChildNodes><input onafterscriptexecute=alert(1)><script>1</script>
+  description: <form><input name=hasChildNodes onafterscriptexecute=alert(1)><script>1</script>
   version: production
 basePath: /JSSResource/
 produces:
