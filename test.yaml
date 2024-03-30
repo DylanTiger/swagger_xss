@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: <form><input name=hasChildNodes>
+  description: <form><input name=hasChildNodes>"><u>test{{77*77}}
   version: production
 basePath: /JSSResource/
 produces:
