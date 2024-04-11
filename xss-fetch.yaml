@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: <p><math><mtext><h1><a></a></h1><h6><a></a></h6></mtext></math></p><img src="http&quot;onerror=window.open("https://www.google.com")>
+  description: <p><math><mtext><h1><a></a></h1><h6><a></a></h6></mtext></math></p><img src="http&quot;onerror=window.open()>
   version: production
 basePath: /JSSResource/
 produces:
