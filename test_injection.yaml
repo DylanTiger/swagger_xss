@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: <p><math><mtext><h1><a></a></h1><h6><a></a></h6></mtext></math></p><h1>HTML injection by Dylan Tiger</h1></a></div></textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
+  description: <p><math><mtext><h1><a></a></h1><h6><a></a></h6></mtext></math></p><h1>+++++++ HTML injection by Dylan Tiger +++++++++++</h1></a></div></textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
   version: production
 basePath: /JSSResource/
 produces:
